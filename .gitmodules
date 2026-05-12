@@ -1,0 +1,6 @@
+[submodule "modul-belajar-submodul"]
+	path = modul-belajar-submodul
+	url = git@github.com:RaffaHitipeuw/modul-belajar-submodul.git
+[submodule "navbar"]
+	path = navbar
+	url = git@github.com:RaffaHitipeuw/modul-belajar-submodul.git
