@@ -4,3 +4,6 @@
 [submodule "navbar"]
 	path = navbar
 	url = git@github.com:RaffaHitipeuw/modul-belajar-submodul.git
+[submodule "footer"]
+	path = footer
+	url = git@github.com:RaffaHitipeuw/modul2-belajar-submodul.git
