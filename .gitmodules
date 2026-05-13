@@ -7,3 +7,6 @@
 [submodule "footer"]
 	path = footer
 	url = git@github.com:RaffaHitipeuw/modul2-belajar-submodul.git
+[submodule "tugas"]
+	path = tugas
+	url = https://github.com/RaffaHitipeuw/tugas-belajar-submodul
